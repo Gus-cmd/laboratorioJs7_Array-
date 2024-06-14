@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(243, 226, 205);
+}
+.container{
+    width: 80vh;
+    background-color: rgba(240, 232, 81, 0.248);
+    box-shadow: 10px 10px 10px rgba(24, 143, 139, 0.248);
+}
+
+.container h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#resultados{
+    color: blue;
+}
